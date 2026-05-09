@@ -1,10 +1,5 @@
 # AI Anomaly Detection — Network Traffic Classifier
 
-**Course Project:** AI-Enhanced Secure Enterprise Network — Phase 3  
-**Department:** Computer Science, GIKI  
-
----
-
 ## Overview
 
 This module implements a machine-learning-based network anomaly detection system. It generates synthetic network traffic, trains classification models, and runs a real-time detection pipeline with a live dashboard — all modelled on the topology defined in the accompanying Packet Tracer file.
