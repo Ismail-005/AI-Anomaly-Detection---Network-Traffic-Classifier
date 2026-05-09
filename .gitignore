@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Large data files (regenerate with generate_traffic.py)
+data/traffic_dataset.csv
+
+# Trained model binaries (regenerate with train_model.py)
+models/*.pkl
+
+# Packet Tracer
+Packet Tracer/
+
+# Reports / generated outputs
+reports/*.png
+reports/*.csv
+reports/*.txt
